@@ -1,13 +1,7 @@
 {
     "version": "0.2.0",
     "configurations": [
-      {
-        "type": "edge",
-        "request": "attach",
-        "name": "Attach to Edge",
-        "port": 9222,
-        "webRoot": "${workspaceFolder}"
-      },
+  
       {
         "type": "pwa-msedge",
         "name": "Launch Microsoft Edge",
